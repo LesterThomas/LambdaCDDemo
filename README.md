@@ -4,4 +4,4 @@ Continuous delivery for Lambda based API using Cloud Formation and Cloud Build s
 
 Based on https://www.youtube.com/watch?v=aGI4Wlm5c9U
 
-![Architecture](https://github.com/LesterThomas/LambdaCDDemo/Architecture.png "Lambda CD Architecture")
+![Architecture](https://github.com/LesterThomas/LambdaCDDemo/blob/master/Architecture.png?raw=true "Lambda CD Architecture")
