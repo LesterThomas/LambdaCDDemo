@@ -18,6 +18,14 @@ Resources:
           Properties:
             Path: /getazs
             Method: get
+        postAZsAPI:
+          Type: Api
+          Properties:
+            Path: /getazs
+            Method: post
       Environment:
         Variables:
           REGION: eu-west-2
+
+
+
